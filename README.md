@@ -1,5 +1,5 @@
 # waldoProject
-AWS model training results. \n
+AWS model training results. <br/>
 Our project involves using AWS Sagemaker to train a model that could detect Waldo. \n
 We use "Amazon SageMaker Object Detection using the Image and JSON format" provided by AWS - Labs as a template to train the model.\n
 The results of a number of trained models are provided in this repository.\n
